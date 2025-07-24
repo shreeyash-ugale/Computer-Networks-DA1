@@ -1,2 +1,2 @@
-Digital Assignment 1 Submission
-Shreeyash Ugale (23BCT0091)
+# Digital Assignment 1 Submission
+## Shreeyash Ugale (23BCT0091)
